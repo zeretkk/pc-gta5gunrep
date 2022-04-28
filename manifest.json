@@ -1,0 +1,9 @@
+{
+    "name": "Gun report GTA5RP",
+    "version": "1.0.0",
+    "description": "Пишет отчеты по необходимой форме",
+    "author": "zeRET#9908",
+    "license": "MIT",
+    "nsfw": false,
+    "permissions": ""
+  }
